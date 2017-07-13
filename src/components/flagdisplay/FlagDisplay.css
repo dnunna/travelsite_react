@@ -1,0 +1,9 @@
+.grid {
+   margin-top: 40px;
+}
+
+.row {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}

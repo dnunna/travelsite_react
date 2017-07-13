@@ -1,0 +1,10 @@
+.infotable{
+    background-color: white;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
